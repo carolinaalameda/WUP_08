@@ -40,3 +40,5 @@ plot(LENGTH~CHEST,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
+Informally, this is a better model than when we used NECK when comparing HEAD and LENGTH. This model seems better because the residual standard error is smaller and the adjusted R-square is explaining more of error than the other model.
+
