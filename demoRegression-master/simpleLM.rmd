@@ -59,6 +59,6 @@ summary.lm(simp)
 
 This model is better than the last models. This is because the residual standard error is smaller and the adjusted R-squared is higher.  
 
-
+To conclude, the best model was LENGTH and HEADLEN. The residual standard error was lower while the adjusted R-squared was higher. 
 
 
